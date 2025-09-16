@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "580137525608",
+    "project_id": "thongbao-net-vn-914c6",
+    "storage_bucket": "thongbao-net-vn-914c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580137525608:android:39109322238f29695db6dd",
+        "android_client_info": {
+          "package_name": "com.edu.student.trenet.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580137525608-9favgcf1363knlc99j6oigf7opqn2vpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6056zcZBMtgt7CpRQehjNV-mmvLOIflg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580137525608-9favgcf1363knlc99j6oigf7opqn2vpp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580137525608-18do88s4oe0d329v4qen27j9c63btt22.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.edu.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580137525608:android:50bc67a936938c575db6dd",
+        "android_client_info": {
+          "package_name": "vn.qlcv.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580137525608-9favgcf1363knlc99j6oigf7opqn2vpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6056zcZBMtgt7CpRQehjNV-mmvLOIflg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580137525608-9favgcf1363knlc99j6oigf7opqn2vpp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580137525608-18do88s4oe0d329v4qen27j9c63btt22.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.edu.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
